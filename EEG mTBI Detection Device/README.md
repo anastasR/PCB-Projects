@@ -1,1 +1,1 @@
-
+This PCB is the first design stage of my cpastone project: an EEG mTBI detection device. This design utilizes the TI ADS1299 AFE for collecting EEG data, and the BT40 nRF5340 module for processing and communicating the data. This PCB also includes many debugging and user interface components, such as buttons, buzzers, and LEDs.
